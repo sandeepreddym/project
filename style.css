@@ -1,0 +1,25 @@
+.affix {
+      top: 0;
+      width: 100%;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+  .mycontainer{
+  	max-width:1380px;
+  	padding:15px;
+  	z-index: 2;
+  	background-color: #ffffff;
+  	margin: 25px;
+  }
+  body{
+  	background-color: #eeebeb;
+  	z-index:-2;
+  }
+  .myrow {
+  	padding: 5 px;
+  	margin: 25 px;
+  }
+
+  
